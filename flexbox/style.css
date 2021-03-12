@@ -1,0 +1,10 @@
+.carré{
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    margin: 20px;
+}
+.contener{
+    display: flex;
+    flex-wrap: wrap;
+}
